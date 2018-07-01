@@ -1,7 +1,7 @@
 module.exports = {
-    FB_PAGE_TOKEN: '',
-    FB_VERIFY_TOKEN: '',
-    API_AI_CLIENT_ACCESS_TOKEN: '',
-    FB_APP_SECRET: '',
-    SERVER_URL: "",
+    FB_PAGE_TOKEN: 'EAAMEX7uPjvQBAIWLwxMscDr3Ag19HtwrZB3mbTqAD77V5M0vjciWq3O2ZCBFqgxKPGdlZClZApVuXxHUGOkAveEy8e7t32G4AMxFDywbnQJ7ZCKUUNo9IWGvdDZBI0TKnZCMQmTWRldindemXagzXtoLfioMjKHZAvFzu2jSXRyYlMcKnCwtsJVF',
+    FB_VERIFY_TOKEN: '0746682930',
+    API_AI_CLIENT_ACCESS_TOKEN: '85ee72ee876f4efa8335aed850148cb9',
+    FB_APP_SECRET: '884e5fdd322b5ef5e6bf4b3a50f9b892',
+    SERVER_URL: "https://createhair.herokuapp.com/",
 };
